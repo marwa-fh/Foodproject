@@ -1,0 +1,1 @@
+<div class="footer"><p>All Rights Reserved-2022</p></div>
